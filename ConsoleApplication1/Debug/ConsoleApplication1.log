@@ -1,0 +1,29 @@
+﻿  AutoCompletion.cpp
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(29): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(31): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(33): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(35): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(37): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(39): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(41): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(43): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(45): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(47): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(49): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(51): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(53): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(68): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(70): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(85): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(87): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(101): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(8): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  c:\users\ania\source\repos\consoleapplication1\consoleapplication1\autocompletion.cpp(90): note: zobacz odwołanie do funkcji szablon; wystąpienie „bool inVector<std::vector<int,std::allocator<_Ty>>>(std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>,T)” jest kompilowane
+          with
+          [
+              _Ty=int,
+              T=std::vector<int,std::allocator<int>>
+          ]
+  ConsoleApplication1.cpp
+  Generowanie kodu...
+  ConsoleApplication1.vcxproj -> C:\Users\Ania\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

@@ -1,0 +1,8 @@
+cenniki/cennik.txt
+cenniki/cennik2.txt
+cenniki/aaa.txt
+cenniki/aaa.txt
+cenniki/err.txt
+cenniki/errorhaha.txt
+cenniki/ggg.txt
+cenniki/ttttt.txt

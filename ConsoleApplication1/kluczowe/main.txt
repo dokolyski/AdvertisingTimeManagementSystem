@@ -1,0 +1,4 @@
+l:admin
+p:1234
+ac:cenniki/cennik.txt
+nk:27

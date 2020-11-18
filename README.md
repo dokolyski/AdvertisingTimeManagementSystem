@@ -1,6 +1,7 @@
 # AdvertisingTimeManagementSystem
-Advertising time management system. C++ window application made using simple own library created for such things (based on SFML2)
+Advertising time management system.
+The lion's share of the project is own, window-based library, which is based on SFML2.
 
-This was my college project for Object-Oriented Programming.
+College project at Object-Oriented Programming.
 EXE file in Debug,
 Source in ConsoleApplication1.
